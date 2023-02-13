@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently studying at [Université Espoir](https://uespoir.edu.ht/) and [Microverse](https://www.microverse.org/go)
 
+- 📝 I am currently at [Microverse](https://www.microverse.org/go) bootcamp
+
 - 🔭 I’m currently working on [Video Player app](https://github.com/CleevensCharlemagne/Video-Player) and [NS-Portal](https://github.com/ns-portal-coders/NS-Portal)
 
 - 🌱 I’m currently learning **JavaScript, Kotlin, C++**
@@ -19,6 +21,10 @@
 - 🤝 I’m looking for help with [the launch of Vortex program](https://github.com/Vortex-s2021/Vortex)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sley530](https://github.com/Sley530)
+
+- 💬 Ask me about **Flutter, Javascript and React**
+
+- 📫 How to reach me **didierganthierperan@gmail.com**
 
 - 📝 I am currently in a bootcamp at app Academy Open [https://www.appacademy.io/](https://www.appacademy.io/)
 
