@@ -24,12 +24,6 @@
 
 - 📫 How to reach me **CleevensCharlemagne@gmail.com**
 
-- 📝 I am currently in a bootcamp at app Academy Open [https://www.appacademy.io/](https://www.appacademy.io/)
-
-- 💬 Ask me about **Python, MySQL**
-
-- 📫 How to reach me **jpwesley530@gmail.com / paul-wesleyjeanty@my.uopeople.edu**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/CleevensCharlemagne/](https://www.linkedin.com/in/cleevens-charlemagne-b95303187/)
 
 - ⚡ Fun fact **I love playing piano and flute.**
