@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software developer and Computer Science student from Haiti.</h3>
 <img align= "right" alt="Coding" width="400" src="https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/man-6187392_1280.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sley530&label=Profile%20views&color=0e75b6&style=flat" alt="sley530" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CleevensCharlemagne&label=Profile%20views&color=0e75b6&style=flat" alt="sley530" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Sley530" target="blank"><img src="https://img.shields.io/twitter/follow/Sley530?logo=twitter&style=for-the-badge" alt="Sley530" /></a> </p>
 
