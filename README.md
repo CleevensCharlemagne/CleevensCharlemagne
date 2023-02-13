@@ -16,6 +16,8 @@
 
 - 👯 I’m looking to collaborate on [Vortex](https://github.com/Vortex-s2021)
 
+- 🤝 I’m looking for help with [the launch of Vortex program](https://github.com/Vortex-s2021/Vortex)
+
 - 👨‍💻 All of my projects are available at [https://github.com/Sley530](https://github.com/Sley530)
 
 - 📝 I am currently in a bootcamp at app Academy Open [https://www.appacademy.io/](https://www.appacademy.io/)
