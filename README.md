@@ -9,12 +9,12 @@
 <p align="left"> <a href="https://twitter.com/CHARLEMAGNECle3" target="blank"><img src="https://img.shields.io/twitter/follow/CleevensCharlemagne?logo=twitter&style=for-the-badge" alt="CleevensCharlemagne" /></a> </p>
 
 - 🔭 I’m currently studying at [Université Espoir](https://uespoir.edu.ht/) and [Microverse](https://www.microverse.org/go)
-- 🔭 I’m currently studying at [University](https://uopeople.edu/)
 
+- 🔭 I’m currently working on [Video Player app](https://github.com/CleevensCharlemagne/Video-Player) and [NS-Portal](https://github.com/ns-portal-coders/NS-Portal)
 
-- 🌱 I’m currently learning **JavaScript, HTML5, CSS, Java**
+- 🌱 I’m currently learning **JavaScript, Kotlin, C++**
 
-- 👯 I’m looking to collaborate on **some interesting projects**
+- 👯 I’m looking to collaborate on [Vortex](https://github.com/Vortex-s2021)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sley530](https://github.com/Sley530)
 
