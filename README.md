@@ -20,9 +20,7 @@
 
 - 🤝 I’m looking for help with [the launch of Vortex program](https://github.com/Vortex-s2021/Vortex)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sley530](https://github.com/Sley530)
-
-- 💬 Ask me about **Flutter, Javascript and React**
+- 💬 Ask me about **Python, Java, Algorithm, Data Structures and Maths**
 
 - 📫 How to reach me **didierganthierperan@gmail.com**
 
