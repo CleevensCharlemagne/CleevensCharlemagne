@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **Il love siging and playing guitar!!!**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CleevensCharlemafne" alt="CleevensCharlemagne" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CleevensCharlemagne" alt="CleevensCharlemagne" /></a> </p>
 
 ## Connect with me
 [![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/GOGWNF3PPP6XG1)
