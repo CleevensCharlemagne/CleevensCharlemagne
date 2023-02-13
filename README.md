@@ -2,8 +2,9 @@
 ![MasterHead](https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/graphic-1552416_1280.png)
 <h1 align="center">Hi 👋, I'm Cleevens CHARLEMAGNE</h1>
 <h3 align="center">A passionate Software developer and Computer Science student from Haiti.</h3>
-<img align= "right" alt="Coding" width="400" src="https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/man-6187392_1280.jpg">
 
+<br>
+<img align= "right" alt="Coding" width="400" src="https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/man-6187392_1280.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CleevensCharlemagne&label=Profile%20views&color=0e75b6&style=flat" alt="CleevensCharlemagne" /> </p>
 
 <p align="left"> <a href="https://twitter.com/CHARLEMAGNECle3" target="blank"><img src="https://img.shields.io/twitter/follow/CleevensCharlemagne?logo=twitter&style=for-the-badge" alt="CleevensCharlemagne" /></a> </p>
@@ -28,7 +29,10 @@
 
 - ⚡ Fun fact **Il love siging and playing guitar!!!**
 
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CleevensCharlemagne" alt="CleevensCharlemagne" /></a> </p>
+<br>
 
 ## Connect with me
 [![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/GOGWNF3PPP6XG1)
