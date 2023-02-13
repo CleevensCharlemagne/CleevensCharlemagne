@@ -2,7 +2,7 @@
 ![MasterHead](https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/graphic-1552416_1280.png)
 <h1 align="center">Hi 👋, I'm Cleevens CHARLEMAGNE</h1>
 <h3 align="center">A passionate Software developer and Computer Science student from Haiti.</h3>
-<img align= "right" alt="Coding" width="400" src="">
+<img align= "right" alt="Coding" width="400" src="https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/man-6187392_1280.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sley530&label=Profile%20views&color=0e75b6&style=flat" alt="sley530" /> </p>
 
