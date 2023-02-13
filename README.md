@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Python, Java, Algorithm, Data Structures and Maths**
 
-- 📫 How to reach me **didierganthierperan@gmail.com**
+- 📫 How to reach me **CleevensCharlemagne@gmail.com**
 
 - 📝 I am currently in a bootcamp at app Academy Open [https://www.appacademy.io/](https://www.appacademy.io/)
 
@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **jpwesley530@gmail.com / paul-wesleyjeanty@my.uopeople.edu**
 
-- 📄 Bootcamp at ALX Africa [https://alx-intranet.hbtn.io](https://alx-intranet.hbtn.io)
+- 📄 Know about my experiences [https://www.linkedin.com/in/CleevensCharlemagne/](https://www.linkedin.com/in/cleevens-charlemagne-b95303187/)
 
 - ⚡ Fun fact **I love playing piano and flute.**
 
