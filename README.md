@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/CleevensCharlemagne/](https://www.linkedin.com/in/cleevens-charlemagne-b95303187/)
 
-- ⚡ Fun fact **I love playing piano and flute.**
+- ⚡ Fun fact **Il love siging and playing guitar!!!**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sley530" alt="sley530" /></a> </p>
 
