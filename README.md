@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/CHARLEMAGNECle3" target="blank"><img src="https://img.shields.io/twitter/follow/CleevensCharlemagne?logo=twitter&style=for-the-badge" alt="CleevensCharlemagne" /></a> </p>
 
 ## 😉 About Me
-- 🔭 I’m currently studying at [Université Espoir](https://uespoir.edu.ht/) and [Microverse](https://www.microverse.org/go)
+- 🔭 I’m currently studying at [Université Espoir](https://uespoir.edu.ht/)
 
 - 📝 I am currently at [Microverse](https://www.microverse.org/go) bootcamp
 
