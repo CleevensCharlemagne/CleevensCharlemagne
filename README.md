@@ -7,7 +7,7 @@
 <img align= "right" alt="Coding" width="400" src="https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/man-6187392_1280.jpg">
 
 ## ❤ Views and Followers.
-![Profile Views](https://komarev.com/ghpvc/?username=sley530&color=brightgreen&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=CleevensCharlemagne&color=brightgreen&style=plastic)
 <p align="left"> <a href="https://twitter.com/CHARLEMAGNECle3" target="blank"><img src="https://img.shields.io/twitter/follow/CleevensCharlemagne?logo=twitter&style=for-the-badge" alt="CleevensCharlemagne" /></a> </p>
 
 ## 😉 About Me
