@@ -5,7 +5,8 @@
 
 <br>
 <img align= "right" alt="Coding" width="400" src="https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/man-6187392_1280.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CleevensCharlemagne&label=Profile%20views&color=0e75b6&style=flat" alt="CleevensCharlemagne" /> </p>
+
+## ❤ Views and Followers.
 
 <p align="left"> <a href="https://twitter.com/CHARLEMAGNECle3" target="blank"><img src="https://img.shields.io/twitter/follow/CleevensCharlemagne?logo=twitter&style=for-the-badge" alt="CleevensCharlemagne" /></a> </p>
 
