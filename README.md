@@ -40,7 +40,7 @@
 <a href="mailto:CleevensCharlemagne.com"><img src='./images/gmail.svg' width='38px'></a>
 <a href='https://www.facebook.com/cleevens.charlemagne'><img src='./images/Facebook.svg' width='38px'/></a>
 <a href='https://www.instagram.com/cleevens_charlemagne/' ><img src='./images/Instagram.svg' width='38px'/></a>
-<a href='https://linkedin.com/in/www.linkedin.com/in/paul-wesley-jeanty-89431b260'><img src='./images/LinkedIN.svg' width='38px'/></a>
+<a href='https://www.linkedin.com/in/cleevens-charlemagne-b95303187/'><img src='./images/LinkedIN.svg' width='38px'/></a>
 <a href='https://twitter.com/Sley530'><img src='./images/Twitter.svg' width='38px'/></a>
 <a href='https://wa.me/message/GOGWNF3PPP6XG1'><img src='./images/WhatsApp.svg' width='38px'/></a>
 <a href='t.me/sley530'><img src='./images/Telegram.svg' width='38px'/></a>
