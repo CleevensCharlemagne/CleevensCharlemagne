@@ -42,7 +42,8 @@
 <a href='https://www.instagram.com/cleevens_charlemagne/' ><img src='./images/Instagram.svg' width='38px'/></a>
 <a href='https://www.linkedin.com/in/cleevens-charlemagne-b95303187/'><img src='./images/LinkedIN.svg' width='38px'/></a>
 <a href='https://twitter.com/CHARLEMAGNECle3'><img src='./images/Twitter.svg' width='38px'/></a>
-<a href=''><img src='./images/Telegram.svg' width='38px'/></a>
+<a href='https://exercism.org/profiles/CleevensCharlemagne'><img src='blob/main/exercism-svgrepo-com.svg' width='38px'/></a>
+
 <a href='https://medium.com/@cleevenscharlemagne'><img src='./images/Medium.svg' width='38px'/></a>
 <a href='https://discord.com/channels/@me'><img src='./images/Discord.svg' width='38px'/></a>
 <a href='https://developers.google.com/profile/u/1078724218768828655790'><img src='./images/Google.svg' width='38px'/></a>
