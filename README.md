@@ -45,7 +45,7 @@
 <a href=''><img src='./images/Telegram.svg' width='38px'/></a>
 <a href='https://medium.com/@cleevenscharlemagne'><img src='./images/Medium.svg' width='38px'/></a>
 <a href='https://discord.com/channels/@me'><img src='./images/Discord.svg' width='38px'/></a>
-<a href='https://g.dev/sley530'><img src='./images/Google.svg' width='38px'/></a>
+<a href='https://developers.google.com/profile/u/1078724218768828655790'><img src='./images/Google.svg' width='38px'/></a>
 <a href='https://www.hackerrank.com/@jpwesley530'><img src='./images/Hackerrank.svg' width='38px'/></a>
 
 ### 🛠 Tools and Hard skills
