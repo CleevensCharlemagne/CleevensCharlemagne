@@ -47,7 +47,6 @@
 <a href='https://discord.com/channels/@me'><img src='./images/Discord.svg' width='38px'/></a>
 <a href='https://developers.google.com/profile/u/1078724218768828655790'><img src='./images/Google.svg' width='38px'/></a>
 <a href='https://www.hackerrank.com/cleevenscharlem1'><img src='./images/Hackerrank.svg' width='38px'/></a>
-<a href='https://exercism.org/profiles/CleevensCharlemagne'><img src='[./images/Hackerrankg](https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/exercism_icon.svg)' width='38px'/></a>
 
 ### 🛠 Tools and Hard skills
 
