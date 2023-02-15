@@ -44,7 +44,7 @@
 <a href='https://twitter.com/CHARLEMAGNECle3'><img src='./images/Twitter.svg' width='38px'/></a>
 <a href=''><img src='./images/Telegram.svg' width='38px'/></a>
 <a href='https://medium.com/@cleevenscharlemagne'><img src='./images/Medium.svg' width='38px'/></a>
-<a href='https://discord.com/channels/@sley#2766'><img src='./images/Discord.svg' width='38px'/></a>
+<a href='https://discord.com/channels/@me'><img src='./images/Discord.svg' width='38px'/></a>
 <a href='https://g.dev/sley530'><img src='./images/Google.svg' width='38px'/></a>
 <a href='https://www.hackerrank.com/@jpwesley530'><img src='./images/Hackerrank.svg' width='38px'/></a>
 
