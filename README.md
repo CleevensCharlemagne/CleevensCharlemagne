@@ -38,7 +38,7 @@
 
 ## Connect with me
 <a href="mailto:CleevensCharlemagne.com"><img src='./images/gmail.svg' width='38px'></a>
-<a href='https://fb.com/paul-chabbyjeanty'><img src='./images/Facebook.svg' width='38px'/></a>
+<a href='https://www.facebook.com/cleevens.charlemagne'><img src='./images/Facebook.svg' width='38px'/></a>
 <a href='https://www.instagram.com/cleevens_charlemagne/' ><img src='./images/Instagram.svg' width='38px'/></a>
 <a href='https://linkedin.com/in/www.linkedin.com/in/paul-wesley-jeanty-89431b260'><img src='./images/LinkedIN.svg' width='38px'/></a>
 <a href='https://twitter.com/Sley530'><img src='./images/Twitter.svg' width='38px'/></a>
