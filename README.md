@@ -37,7 +37,7 @@
 <br>
 
 ## Connect with me
-<a href="mailto:jpwesley530@gmail.com"><img src='./images/gmail.svg' width='38px'></a>
+<a href="mailto:CleevensCharlemagne.com"><img src='./images/gmail.svg' width='38px'></a>
 <a href='https://fb.com/paul-chabbyjeanty'><img src='./images/Facebook.svg' width='38px'/></a>
 <a href='https://instagram.com/sley.530' ><img src='./images/Instagram.svg' width='38px'/></a>
 <a href='https://linkedin.com/in/www.linkedin.com/in/paul-wesley-jeanty-89431b260'><img src='./images/LinkedIN.svg' width='38px'/></a>
