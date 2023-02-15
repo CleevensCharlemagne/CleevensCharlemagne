@@ -42,8 +42,8 @@
 <a href='https://www.instagram.com/cleevens_charlemagne/' ><img src='./images/Instagram.svg' width='38px'/></a>
 <a href='https://www.linkedin.com/in/cleevens-charlemagne-b95303187/'><img src='./images/LinkedIN.svg' width='38px'/></a>
 <a href='https://twitter.com/CHARLEMAGNECle3'><img src='./images/Twitter.svg' width='38px'/></a>
-<a href='t.me/sley530'><img src='./images/Telegram.svg' width='38px'/></a>
-<a href='sley530.medium.com'><img src='./images/Medium.svg' width='38px'/></a>
+<a href=''><img src='./images/Telegram.svg' width='38px'/></a>
+<a href='https://medium.com/@cleevenscharlemagne'><img src='./images/Medium.svg' width='38px'/></a>
 <a href='https://www.youtube.com/channel/UCcg-0DP-YMMaJgVC7gOFk1Q'><img src='./images/Youtube.svg' width='38px'/></a>
 <a href='https://discord.com/channels/@sley#2766'><img src='./images/Discord.svg' width='38px'/></a>
 <a href='https://g.dev/sley530'><img src='./images/Google.svg' width='38px'/></a>
