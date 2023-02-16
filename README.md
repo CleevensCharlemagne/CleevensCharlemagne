@@ -85,7 +85,7 @@ Name | Badges
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleevensCharlemagne&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=CleevensCharlemagne&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Cleevens's github stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CleevensCharlemagne&theme=dark" alt="Sley530" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CleevensCharlemagne&theme=dark" alt="CleevensCharlemagne" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
