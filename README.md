@@ -1,6 +1,6 @@
 
 ![MasterHead](https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/graphic-1552416_1280.png)
-<h1 align="center">Hi 👋, I'm Cleevens CHARLEMAGNE</h1>
+<h1 align="center">Hi 👋, I'm Cleevens CHARLEMAGNE</h1><br>
 <h3 align="center">A passionate Software developer and Computer Science student from Haiti.</h3>
 
 <br>
