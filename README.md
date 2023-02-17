@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software developer and Computer Science student from Haiti.</h3>
 
 <br>
-<img align= "right" alt="Coding" width="400" src="https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/man-6187392_1280.jpg">
+<img align= "right" alt="Coding" width="400" src="https://github.com/CleevensCharlemagne/CleevensCharlemagne/blob/main/hacker.jpg">
 
 ## ❤ Views and Followers.
 ![Profile Views](https://komarev.com/ghpvc/?username=CleevensCharlemagne&color=brightgreen&style=plastic)
