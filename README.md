@@ -33,7 +33,7 @@
 
 <br>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CleevensCharlemagne" alt="CleevensCharlemagne" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CleevensCharlemagne" alt="CleevensCharlemagne"  width="900px"/></a> </p>
 <br>
 
 ## Connect with me
