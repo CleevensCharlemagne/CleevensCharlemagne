@@ -88,7 +88,6 @@ Name | Badges
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CleevensCharlemagne&theme=dark" alt="CleevensCharlemagne" /></p>
 <br/>
 
-[![Cleevens's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CleevensCharlemagne&&theme=react-dark)](https://github.com/CleevensCharlemagne/github-readme-activity-graph)
 
 <br/>
 <br/>
