@@ -13,11 +13,11 @@
 ## 😉 About Me
 - 🔭 I’m currently studying at [Université Espoir](https://uespoir.edu.ht/)
 
-- 📝 I am currently at [Microverse](https://www.microverse.org/go) bootcamp
+- 📝 I am currently at [Microverse](https://www.microverse.org/go) bootcamp.
 
 - 🔭 I’m currently working on [Video Player app](https://github.com/CleevensCharlemagne/Video-Player) and [NS-Portal](https://github.com/ns-portal-coders/NS-Portal)
 
-- 🌱 I’m currently learning **JavaScript, Kotlin, C++**
+- 🌱 I’m currently learning **JavaScript, Kotlin, C++**.
 
 - 👯 I’m looking to collaborate on [Vortex](https://github.com/Vortex-s2021)
 
